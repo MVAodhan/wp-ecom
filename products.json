@@ -1,0 +1,38 @@
+[
+    {
+        "id": "bowser-holo",
+        "title": "Bowser Holo",
+        "price": "69.99",
+        "src": "/bowser-holo.jpg"
+    },
+    {
+        "id": "bowser",
+        "title": "Bowser",
+        "price": "49.99",
+        "src": "/bowser.jpg"
+    },
+    {
+        "id": "hammer",
+        "title": "Hammer",
+        "price": "29.99",
+        "src": "/hammer.jpg"
+    },
+    {
+        "id": "lakitu",
+        "title": "Lakitu",
+        "price": "15.99",
+        "src": "/lakitu.jpg"
+    },
+    {
+        "id": "luigi",
+        "title": "Luigi",
+        "price": "89.99",
+        "src": "/luigi.jpg"
+    },
+    {
+        "id": "mario-holo",
+        "title": "Mario Holo",
+        "price": "119.99",
+        "src": "/mario-holo.jpg"
+    }
+]

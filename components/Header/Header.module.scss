@@ -1,0 +1,35 @@
+.header {
+  width: 100vw;
+  background-color: blue;
+  color: white;
+
+  p {
+    margin: 0;
+  }
+}
+
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.headerName {
+  font-size: 2em;
+}
+
+.headerCart {
+  display: flex;
+  align-items: center;
+
+  svg {
+    margin-right: 0.5em;
+  }
+}
+
+.snipButton {
+  background-color: transparent;
+  color: inherit;
+  border: none;
+  cursor: pointer;
+}
